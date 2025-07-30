@@ -5,7 +5,7 @@ Welcome to my personal portfolio website — a modern, responsive, and interacti
 ![Screenshot](./main1.png) <!-- Replace with your actual screenshot path -->
 
 ---
-
+Live Deployment : https://portfolio-fiz.vercel.app/
 # 🚀 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
